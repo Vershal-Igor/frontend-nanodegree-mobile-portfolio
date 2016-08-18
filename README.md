@@ -1,3 +1,8 @@
+## Ссылки выполненого задания:
+* <a href="https://github.com/Vershal-Igor/frontend-nanodegree-mobile-portfolio/tree/gh-pages">GitHub страница</a>
+* <a href="http://Vershal-Igor.github.io/frontend-nanodegree-mobile-portfolio/index.html">Результат PageSpeed Insights</a>
+* <a href="https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2FVershal-Igor.github.io%2Ffrontend-nanodegree-mobile-portfolio%2Findex.html&tab=mobile">Ссылка на результат PageSpeed Insights</a>
+
 ## Website Performance Optimization portfolio project
 
 Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
